@@ -1,0 +1,109 @@
+@import "../../_settings.scss";
+
+body#index {
+
+	.bio-summary {
+
+		margin: rem(30) 0 rem(100);
+		padding: 0 rem(15);
+		max-width: rem(670);
+		width: 100%;
+
+		color: #fff;
+		text-shadow: 0 rem(2) rem(3) #000;
+
+		h1 {
+			font-size: rem(36);
+			margin-bottom: rem(6);
+		}
+
+		p {
+			@extend .title-font;
+			font-family: $serif-font;
+			font-size: rem(18);
+			margin-bottom: rem(10);
+		}
+
+		h3 {
+			font-size: rem(20);
+		}
+
+		h4 {
+			font-size: rem(24);
+			margin-bottom: 0;
+		}
+
+		a {
+			color: #fff;
+			font-size: rem(20);
+
+			&:hover {
+				color: #fff;
+				text-decoration: underline;
+			}
+		}
+
+		hr {
+			border-bottom: rem(2) solid #fff;
+			box-shadow: 0 rem(2) rem(3) #000;
+		}
+
+		table {
+			tbody {
+				background: transparent;
+
+				td:nth-child(1) {
+					vertical-align: top;
+					width: rem(30); 
+					padding-left: 0;
+				}
+
+				td:nth-child(2) {
+					padding-left: 0; 
+					padding-right: 0;
+				}
+			}
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	body#index {
+
+		.bio-summary {
+			margin-top: rem(180);
+
+			h1 {
+				font-size: rem(80);
+			}
+
+			p {
+				font-size: rem(30);
+			}
+
+			h3 {
+				font-size: rem(35);
+				margin-bottom: rem(24);
+			}
+
+			h4 {
+				font-size: rem(35);
+				margin-bottom: rem(4);
+			}
+
+			a {
+				font-size: rem(31);
+			}
+
+			table {
+				tbody {
+
+					td:nth-child(1) {
+						width: rem(45); 
+					}
+				}
+			}
+		}
+	}	
+}
+
