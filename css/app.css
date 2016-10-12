@@ -2091,7 +2091,7 @@ body#index .bio-summary a:hover { color: #fff; text-decoration: underline; }
 
 body#index .bio-summary hr { border-bottom: 0.125rem solid #fff; box-shadow: 0 0.125rem 0.1875rem #000; }
 
-body#index .bio-summary table tbody { background: transparent; }
+body#index .bio-summary table tbody { border: none; background: transparent; }
 
 body#index .bio-summary table tbody td:nth-child(1) { vertical-align: top; width: 1.875rem; padding-left: 0; }
 
