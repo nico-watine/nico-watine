@@ -2,6 +2,7 @@
 /** Foundation for Sites by ZURB Version 6.2.3 foundation.zurb.com Licensed under MIT Open Source */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
@@ -2063,6 +2064,18 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 .short-delay { animation-delay: 300ms !important; }
 
 .long-delay { animation-delay: 700ms !important; }
+
+@font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+
+.title-font, body#index .bio-summary p { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
+
+.body-font { font-family: "Montserrat", Arial, "Helvetica Neue", Helvetica, sans-serif; letter-spacing: -0.03125rem; }
+
+@media screen and (min-width: 40em) { .body-font { letter-spacing: -0.0625rem; } }
+
+.serif-font { font-family: Georgia, Times, "Times New Roman", serif; }
+
+h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; }
 
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
