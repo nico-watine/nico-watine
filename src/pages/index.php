@@ -11,7 +11,7 @@ body-class:
 <section class="row">
 	<div itemscope itemtype="http://schema.org/Person" class="bio-summary">
 		<h1 itemprop="name" class="title-font">Nico Watine</h1>
-		<p><i>\ Nee-ko waw-Teen \</i></p>
+		<p class="serif-font"><strong><i>\ Nee-ko waw-Teen \</i></strong></p>
 		<table>
 			<tbody>
 				<tr>

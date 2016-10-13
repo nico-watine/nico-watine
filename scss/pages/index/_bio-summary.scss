@@ -18,8 +18,6 @@ body#index {
 		}
 
 		p {
-			@extend .title-font;
-			font-family: $serif-font;
 			font-size: rem(18);
 			margin-bottom: rem(10);
 		}

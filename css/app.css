@@ -2067,7 +2067,7 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 @font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-.title-font, body#index .bio-summary p { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
+.title-font { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
 
 .body-font { font-family: "Montserrat", Arial, "Helvetica Neue", Helvetica, sans-serif; letter-spacing: -0.03125rem; }
 
@@ -2092,7 +2092,7 @@ body#index .bio-summary { margin: 1.875rem 0 6.25rem; padding: 0 0.9375rem; max-
 
 body#index .bio-summary h1 { font-size: 2.25rem; margin-bottom: 0.375rem; }
 
-body#index .bio-summary p { font-family: Georgia, Times, "Times New Roman", serif; font-size: 1.125rem; margin-bottom: 0.625rem; }
+body#index .bio-summary p { font-size: 1.125rem; margin-bottom: 0.625rem; }
 
 body#index .bio-summary h3 { font-size: 1.25rem; }
 
