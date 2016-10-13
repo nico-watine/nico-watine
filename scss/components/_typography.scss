@@ -2,3 +2,32 @@
 @import "typography/_fonts.scss";
 
 
+.title-font {
+	font-family: $title-font;
+	font-weight: bold;
+	letter-spacing: rem(-0.5);
+}
+
+.body-font {
+	font-family: $body-font;
+	letter-spacing: rem(-0.5);
+
+	@include breakpoint(medium) {
+		letter-spacing: rem(-1);
+	}
+}
+
+.serif-font {
+	font-family: $serif-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+	letter-spacing: rem(-1);
+}
