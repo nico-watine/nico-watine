@@ -2069,7 +2069,7 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .title-font { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
 
-.serif-font { font-family: Georgia, Times, "Times New Roman", serif; }
+.serif-font { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
 
 h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.03125rem; }
 
