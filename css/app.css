@@ -2069,13 +2069,11 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .title-font { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
 
-.body-font { font-family: "Montserrat", Arial, "Helvetica Neue", Helvetica, sans-serif; letter-spacing: -0.03125rem; }
-
-@media screen and (min-width: 40em) { .body-font { letter-spacing: -0.0625rem; } }
-
 .serif-font { font-family: Georgia, Times, "Times New Roman", serif; }
 
-h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; }
+h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.03125rem; }
+
+@media screen and (min-width: 40em) { h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; } }
 
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
