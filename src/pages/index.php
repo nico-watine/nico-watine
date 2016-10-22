@@ -12,7 +12,7 @@ body-class:
 	<div itemscope itemtype="http://schema.org/Person" class="bio-summary">
 		<h1 itemprop="name" class="title-font">Nico Watine</h1>
 		<h4 class="serif-font"><strong><i>\ Nee-ko waw-Teen \</i></strong></h4>
-		<table>
+		<table class="transparent">
 			<tbody>
 				<tr>
 					<td><h3>1 <span class="float-right">:</span></h3></td>

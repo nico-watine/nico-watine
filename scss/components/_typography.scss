@@ -27,3 +27,14 @@ a {
 		letter-spacing: rem(-1);
 	}
 }
+
+
+table.transparent {
+	thead,
+	tbody,
+	tfoot {
+		background: transparent;
+		border: none;
+	}
+}
+
