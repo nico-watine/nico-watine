@@ -2079,6 +2079,8 @@ table.transparent thead, table.transparent tbody, table.transparent tfoot { back
 
 .contrast * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 
+a:hover { text-decoration: underline; }
+
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
 .gradient-bg { position: fixed; top: 0; left: 0; z-index: -5; background-image: linear-gradient(180deg, rgba(0, 112, 170, 0.8) 0%, rgba(0, 112, 170, 0.4) 41%, rgba(255, 255, 255, 0.4) 63%, rgba(255, 255, 255, 0) 100%); background-size: cover; height: 100%; width: 100%; }
