@@ -38,3 +38,9 @@ table.transparent {
 	}
 }
 
+.contrast {
+	* {
+		color: #fff;
+		text-shadow: 0 rem(2) rem(3) #000;
+	}
+}

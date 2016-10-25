@@ -2077,6 +2077,8 @@ h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.03125rem; }
 
 table.transparent thead, table.transparent tbody, table.transparent tfoot { background: transparent; border: none; }
 
+.contrast * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
 .gradient-bg { position: fixed; top: 0; left: 0; z-index: -5; background-image: linear-gradient(180deg, rgba(0, 112, 170, 0.8) 0%, rgba(0, 112, 170, 0.4) 41%, rgba(255, 255, 255, 0.4) 63%, rgba(255, 255, 255, 0) 100%); background-size: cover; height: 100%; width: 100%; }
@@ -2088,7 +2090,7 @@ body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-body#index .bio-summary { margin: 1.875rem 0 6.25rem; padding: 0 0.9375rem; max-width: 41.875rem; width: 100%; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+body#index .bio-summary { margin: 1.875rem 0 6.25rem; padding: 0 0.9375rem; max-width: 41.875rem; width: 100%; }
 
 body#index .bio-summary table tbody td:nth-child(1) { vertical-align: top; width: 1.875rem; padding-left: 0; }
 
