@@ -21,11 +21,7 @@ h5,
 h6,
 p,
 a {
-	letter-spacing: rem(-0.5);
-
-	@include breakpoint(medium) {
-		letter-spacing: rem(-1);
-	}
+	letter-spacing: rem(-1);
 }
 
 
