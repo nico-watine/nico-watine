@@ -2,23 +2,15 @@
 @import "typography/_fonts.scss";
 
 
-.title-font {
+.title {
 	font-family: $title-font;
 	font-weight: bold;
 	letter-spacing: rem(-0.5);
 }
 
-.body-font {
-	font-family: $body-font;
-	letter-spacing: rem(-0.5);
-
-	@include breakpoint(medium) {
-		letter-spacing: rem(-1);
-	}
-}
-
-.serif-font {
+.serif {
 	font-family: $serif-font;
+	letter-spacing: rem(-0.5);
 }
 
 h1,
@@ -29,5 +21,26 @@ h5,
 h6,
 p,
 a {
-	letter-spacing: rem(-1);
+	letter-spacing: rem(-0.5);
+
+	@include breakpoint(medium) {
+		letter-spacing: rem(-1);
+	}
+}
+
+
+table.transparent {
+	thead,
+	tbody,
+	tfoot {
+		background: transparent;
+		border: none;
+	}
+}
+
+.contrast {
+	* {
+		color: #fff;
+		text-shadow: 0 rem(2) rem(3) #000;
+	}
 }
