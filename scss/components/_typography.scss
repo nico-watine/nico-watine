@@ -44,3 +44,9 @@ table.transparent {
 		text-shadow: 0 rem(2) rem(3) #000;
 	}
 }
+
+a {
+	&:hover {
+		text-decoration: underline;
+	}
+}
