@@ -2,13 +2,13 @@
 @import "typography/_fonts.scss";
 
 
-.title-font {
+.title {
 	font-family: $title-font;
 	font-weight: bold;
 	letter-spacing: rem(-0.5);
 }
 
-.serif-font {
+.serif {
 	font-family: $serif-font;
 	letter-spacing: rem(-0.5);
 }

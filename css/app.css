@@ -2067,9 +2067,9 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 @font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-.title-font { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
+.title { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
 
-.serif-font { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
+.serif { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
 
 h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.03125rem; }
 
