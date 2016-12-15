@@ -2436,7 +2436,7 @@
 	"\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
 		"oF": 0,
 		"sC": 1,
@@ -3784,7 +3784,7 @@
 		"oA": 1,
 		"oAP": "\/gulpfile.babel-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/img\/index\/bg\/default.jpg": {
@@ -3888,18 +3888,18 @@
 	"\/js\/src\/app.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/app-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/js\/src\/scripts.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/scripts-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
