@@ -3765,16 +3765,6 @@
 		"oAP": "\/fonts\/aileron\/heavy\/Aileron-Heavy.woff",
 		"oF": 0
 		},
-	"\/fonts\/aileron\/heavy\/font.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/fonts\/aileron\/heavy\/font-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"mi": 0,
