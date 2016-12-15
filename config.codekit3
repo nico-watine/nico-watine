@@ -3551,13 +3551,13 @@
 		},
 	"\/dist\/403.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/403.html",
 		"oF": 0
 		},
 	"\/dist\/404.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
@@ -3566,7 +3566,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
@@ -3604,7 +3604,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/fonts\/aileron\/heavy\/font-min.css",
 		"oF": 0,
 		"oS": 0
@@ -3649,7 +3649,7 @@
 		},
 	"\/dist\/img\/saxophone\/video\/ariana-grande\/dangerous-woman.png": {
 		"ft": 32768,
-		"iS": 1816970,
+		"iS": 1816968,
 		"oA": 0,
 		"oAP": "\/dist\/img\/saxophone\/video\/ariana-grande\/dangerous-woman.png",
 		"oF": 0,
@@ -3657,7 +3657,7 @@
 		},
 	"\/dist\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg": {
 		"ft": 16384,
-		"iS": 1295940,
+		"iS": 1295939,
 		"oA": 0,
 		"oAP": "\/dist\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg",
 		"oF": 0,
@@ -3697,7 +3697,7 @@
 		},
 	"\/dist\/index.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
@@ -3710,27 +3710,18 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/dist\/js\/scripts-min.js": {
+	"\/dist\/js\/custom\/scripts-min.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
+		"oAP": "\/dist\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
 	"\/dist\/php\/autoVer.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},
