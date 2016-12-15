@@ -6,7 +6,7 @@ og-title: Nico Watine | Houston Web Designer
 og-description: My name is Nico. I'm a saxophone-ing, picture-taking web designer in Houston, TX.
 og-image:
 body-id: index
-body-class:
+body-class: index
 ---
 <section class="row">
 	<div itemscope itemtype="http://schema.org/Person" class="bio-summary contrast">
