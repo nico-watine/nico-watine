@@ -5,12 +5,12 @@
 .title {
 	font-family: $title-font;
 	font-weight: bold;
-	letter-spacing: rem(-0.5);
+	letter-spacing: rem-calc(-0.5);
 }
 
 .serif {
 	font-family: $serif-font;
-	letter-spacing: rem(-0.5);
+	letter-spacing: rem-calc(-0.5);
 }
 
 h1,
@@ -21,7 +21,7 @@ h5,
 h6,
 p,
 a {
-	letter-spacing: rem(-1);
+	letter-spacing: rem-calc(-1);
 }
 
 
@@ -37,7 +37,7 @@ table.transparent {
 .contrast {
 	* {
 		color: #fff;
-		text-shadow: 0 rem(2) rem(3) #000;
+		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
 	}
 }
 
