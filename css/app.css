@@ -2067,15 +2067,15 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 @font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-.title { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: rem(-0.5); }
+.title { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
 
-.serif { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: rem(-0.5); }
+.serif { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
 
-h1, h2, h3, h4, h5, h6, p, a { letter-spacing: rem(-1); }
+h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; }
 
 table.transparent thead, table.transparent tbody, table.transparent tfoot { background: transparent; border: none; }
 
-.contrast * { color: #fff; text-shadow: 0 rem(2) rem(3) #000; }
+.contrast * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 
 a:hover { text-decoration: underline; }
 
@@ -2090,18 +2090,18 @@ body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-body#index .bio-summary { margin: rem(30) 0 rem(100); padding: 0 rem(15); max-width: rem(670); width: 100%; }
+body#index .bio-summary { margin: 1.875rem 0 6.25rem; padding: 0 0.9375rem; max-width: 41.875rem; width: 100%; }
 
-body#index .bio-summary table tbody td:nth-child(1) { vertical-align: top; width: rem(30); padding-left: 0; }
+body#index .bio-summary table tbody td:nth-child(1) { vertical-align: top; width: 1.875rem; padding-left: 0; }
 
 body#index .bio-summary table tbody td:nth-child(2) { padding-left: 0; padding-right: 0; }
 
-@media screen and (min-width: 40em) { body#index .bio-summary { margin-top: rem(180); } }
+@media screen and (min-width: 40em) { body#index .bio-summary { margin-top: 11.25rem; } }
 
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }
 
-.p-x { padding: 0 rem(16); }
+.p-x { padding: 0 1rem; }
 
-.p-y { padding: rem(16) 0; }
+.p-y { padding: 1rem 0; }
