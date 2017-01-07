@@ -1,0 +1,58 @@
+Hello savvy Internet wanderer!
+
+This is the profile page of web designer Nico Watine
+
+To see his portfolio, check out www.studioncreations.com
+
+Coded with <3 and powered by HTML5 for a better web
+
+================
+
+Need a website? :: contact@studioncreations.com
+Get in touch with Nico :: nico.w@tine.rocks
+
+================
+
+/* SITE COLOPHON */
+Standards: 
+  Semantic HTML5 
+  CSS3 pre-processed via SASS
+
+Components: 
+  Normalize.css (because Nicolas Gallagher is awesome)
+  html5shiv.js (for that dinosaur called IE8)
+
+Software: 
+  Sublime Text
+  CodeKit (the 1st reason for working on a Mac)
+  Sketch 3 (the 2nd reason for a Mac)
+
+What is this rambling file??
+humanstxt.org
+
+================
+
+
+                    ++++++++          
+                 ++++++++++++         
+                +++++++++++++         
+                   .+++++++++         
+                    +++++++++         
+                    +++++++++         
+        ,+++++      +++++++++         
+     +++++++++++    +++++++++         
+    +++++++++++++   +++++++++         
+     ++++++++++++++ +++++++++         
+     ++++++++++++++++++++++++         
+     +++++++++++++++++++++++++        
+     +++++++++++++++++++++++++        
+     +++++++++++++++++++++++++        
+    ++++++++++++++++++++++++++        
+    +++++++++  +++++++++++++++        
+   +++++++++     +++++++++++++,       
+   ++++++         +++++++++++++       
+     +              +++++++++.        
+                     ++++++           
+                      .+~
+
+   WWW . STUDIO N CREATIONS . COM
