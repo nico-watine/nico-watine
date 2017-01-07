@@ -75,6 +75,12 @@
 		"oAP": "\/_ignores\/social-media-links.txt",
 		"oF": 0
 		},
+	"\/_ignores\/web-services-verifications.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/web-services-verifications.txt",
+		"oF": 0
+		},
 	"\/assets\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
@@ -115,6 +121,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/robots.txt",
+		"oF": 0
+		},
+	"\/assets\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sitemap.xml",
 		"oF": 0
 		},
 	"\/bower.json": {
@@ -3554,184 +3566,6 @@
 		"oAP": "\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/dist\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/.htaccess",
-		"oF": 0
-		},
-	"\/dist\/403.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/403.html",
-		"oF": 0
-		},
-	"\/dist\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/404.html",
-		"oF": 0
-		},
-	"\/dist\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.eot",
-		"oF": 0
-		},
-	"\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.ttf",
-		"oF": 0
-		},
-	"\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/fonts\/aileron\/heavy\/Aileron-Heavy.woff",
-		"oF": 0
-		},
-	"\/dist\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/humans.txt",
-		"oF": 0
-		},
-	"\/dist\/img\/index\/bg\/default.jpg": {
-		"ft": 16384,
-		"iS": 357346,
-		"oA": 0,
-		"oAP": "\/dist\/img\/index\/bg\/default.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/bg\/beta-test.jpg": {
-		"ft": 16384,
-		"iS": 361831,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/bg\/beta-test.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/bg\/default.jpg": {
-		"ft": 16384,
-		"iS": 234186,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/bg\/default.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/alessia-cara\/here.jpg": {
-		"ft": 16384,
-		"iS": 449723,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/alessia-cara\/here.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/ariana-grande\/dangerous-woman.png": {
-		"ft": 32768,
-		"iS": 1816968,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/ariana-grande\/dangerous-woman.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg": {
-		"ft": 16384,
-		"iS": 1295939,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/booker-t\/green-onions.jpg": {
-		"ft": 16384,
-		"iS": 282163,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/booker-t\/green-onions.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/cee-lo-green\/forget-you.jpg": {
-		"ft": 16384,
-		"iS": 99394,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/cee-lo-green\/forget-you.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/ray-charles\/shake-a-tailfeather.jpg": {
-		"ft": 16384,
-		"iS": 453112,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/ray-charles\/shake-a-tailfeather.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/saxophone\/video\/smoove\/im-a-man.png": {
-		"ft": 32768,
-		"iS": 898031,
-		"oA": 0,
-		"oAP": "\/dist\/img\/saxophone\/video\/smoove\/im-a-man.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
-	"\/dist\/js\/app-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/app-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/custom\/scripts-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/php\/autoVer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/php\/autoVer.php",
-		"oF": 0
-		},
-	"\/dist\/robots.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/robots.txt",
-		"oF": 0
 		},
 	"\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
 		"ft": 8192,
