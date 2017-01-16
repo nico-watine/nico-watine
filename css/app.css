@@ -2142,6 +2142,8 @@ body#index .bio-summary table tbody td:nth-child(2) { padding-left: 0; padding-r
 
 @media print, screen and (min-width: 40em) { body#index .bio-summary { margin-top: 11.25rem; } }
 
+a#snc-link { color: inherit; }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }

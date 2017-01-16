@@ -19,7 +19,7 @@ body-class: index
 					<td><h3 itemprop="description">A <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, <span itemprop="jobTitle">web designer</span> who thinks he can play the saxophone and take pretty pictures.</h3>
 					<hr>
 					<h2 class="title">Portfolio</h2>
-					<h4><a href="http://studioncreations.com" itemprop="url">http://studioncreations.com</a></h4></td>
+					<h4><a href="http://studioncreations.com" id="snc-link" itemprop="url">http://studioncreations.com</a></h4></td>
 				</tr>
 			</tbody>
 		</table>
