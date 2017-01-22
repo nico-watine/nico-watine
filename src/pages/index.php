@@ -2,7 +2,7 @@
 url: /
 title: Nico Watine | Houston Web Designer
 description: I'm a saxophone-ing, picture-taking web designer in Houston, TX.
-og-title: Nico Watine | Houston Web Designer
+og-title: Nico Watine | Houston Web Developer
 og-description: My name is Nico. I'm a saxophone-ing, picture-taking web designer in Houston, TX.
 og-image:
 body-id: index
@@ -11,7 +11,7 @@ body-class: index
 <section class="row">
 	<div itemscope itemtype="http://schema.org/Person" class="bio-summary contrast">
 		<h1 itemprop="name" class="title">Nico Watine</h1>
-		<!-- <h4 class="serif"><strong><i>\ Nee-ko waw-Teen \</i></strong></h4> -->
+		<!-- <h4 class="serif"><strong><i>\ Nee-ko waw-Teen \</i></strong></h4> -->z
 		<table class="transparent">
 			<tbody>
 				<tr>
