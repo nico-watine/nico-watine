@@ -11,7 +11,6 @@ body-class: index
 <section class="row">
 	<div itemscope itemtype="http://schema.org/Person" class="bio-summary contrast">
 		<h1 itemprop="name" class="title">Nico Watine</h1>
-		<!-- <h4 class="serif"><strong><i>\ Nee-ko waw-Teen \</i></strong></h4> -->z
 		<table class="transparent">
 			<tbody>
 				<tr>
