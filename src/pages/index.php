@@ -1,9 +1,9 @@
 ---
 url: /
 title: Nico Watine | Houston Web Designer
-description: I'm a saxophone-ing, picture-taking web designer in Houston, TX.
+description: I design, brand, code and maintain mobile-optimized websites
 og-title: Nico Watine | Houston Web Developer
-og-description: My name is Nico. I'm a saxophone-ing, picture-taking web designer in Houston, TX.
+og-description: My name is Nico. I design, brand, code and maintain mobile-optimized websites for projects of all sizes.
 og-image:
 body-id: index
 body-class: index
@@ -14,8 +14,7 @@ body-class: index
 		<table class="transparent">
 			<tbody>
 				<tr>
-					<!-- <td><h3>1 <span class="float-right">:</span></h3></td> -->
-					<td><h3>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere.</h3><!-- <h3 itemprop="description">A <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, <span itemprop="jobTitle">web designer</span> who thinks he can play the saxophone and take pretty pictures.</h3> -->
+					<td><h3 itemprop="description">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, and am available for hire anywhere.</h3>
 					<hr>
 					<h2 class="title">Portfolio</h2>
 					<h3><a href="http://studioncreations.com" id="snc-link" itemprop="url">http://studioncreations.com</a></h3></td>
