@@ -379,7 +379,7 @@ pre { overflow: auto; }
 
 .row .row { margin-right: -0.625rem; margin-left: -0.625rem; }
 
-@media print, screen and (min-width: 40em) { .row .row { margin-right: -0.78125rem; margin-left: -0.78125rem; } }
+@media print, screen and (min-width: 40em) { .row .row { margin-right: -0.75rem; margin-left: -0.75rem; } }
 
 @media print, screen and (min-width: 64em) { .row .row { margin-right: -0.9375rem; margin-left: -0.9375rem; } }
 
@@ -393,13 +393,13 @@ pre { overflow: auto; }
 
 .row.gutter-small > .column, .row.gutter-small > .columns { padding-right: 0.625rem; padding-left: 0.625rem; }
 
-.row.gutter-medium > .column, .row.gutter-medium > .columns { padding-right: 0.78125rem; padding-left: 0.78125rem; }
+.row.gutter-medium > .column, .row.gutter-medium > .columns { padding-right: 0.75rem; padding-left: 0.75rem; }
 
 .row.gutter-large > .column, .row.gutter-large > .columns { padding-right: 0.9375rem; padding-left: 0.9375rem; }
 
 .column, .columns { width: 100%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; }
 
-@media print, screen and (min-width: 40em) { .column, .columns { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
+@media print, screen and (min-width: 40em) { .column, .columns { padding-right: 0.75rem; padding-left: 0.75rem; } }
 
 @media print, screen and (min-width: 64em) { .column, .columns { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
 
@@ -662,7 +662,7 @@ pre { overflow: auto; }
   .medium-collapse > .column, .medium-collapse > .columns { padding-right: 0; padding-left: 0; }
   .medium-collapse .row { margin-right: 0; margin-left: 0; }
   .expanded.row .medium-collapse.row { margin-right: 0; margin-left: 0; }
-  .medium-uncollapse > .column, .medium-uncollapse > .columns { padding-right: 0.78125rem; padding-left: 0.78125rem; }
+  .medium-uncollapse > .column, .medium-uncollapse > .columns { padding-right: 0.75rem; padding-left: 0.75rem; }
   .medium-centered { margin-right: auto; margin-left: auto; }
   .medium-centered, .medium-centered:last-child:not(:first-child) { float: none; clear: both; }
   .medium-uncentered, .medium-push-0, .medium-pull-0 { position: static; float: left; margin-right: 0; margin-left: 0; } }
@@ -757,7 +757,7 @@ pre { overflow: auto; }
 
 .column-block > :last-child { margin-bottom: 0; }
 
-@media print, screen and (min-width: 40em) { .column-block { margin-bottom: 1.5625rem; }
+@media print, screen and (min-width: 40em) { .column-block { margin-bottom: 1.5rem; }
   .column-block > :last-child { margin-bottom: 0; } }
 
 @media print, screen and (min-width: 64em) { .column-block { margin-bottom: 1.875rem; }
