@@ -17,7 +17,7 @@ body-class: index
 					<td><h3 itemprop="description">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, and am available for hire anywhere.</h3>
 					<hr>
 					<h2 class="title">Portfolio</h2>
-					<h3><a href="http://studioncreations.com" id="snc-link" itemprop="url">http://studioncreations.com</a></h3></td>
+					<h3><a href="https://studioncreations.com" id="snc-link" itemprop="url">https://studioncreations.com</a></h3></td>
 				</tr>
 			</tbody>
 		</table>
