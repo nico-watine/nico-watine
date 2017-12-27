@@ -2142,14 +2142,6 @@ body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-body#index .bio-summary { margin: 1.875rem 0 6.25rem; padding: 0 0.9375rem; max-width: 41.875rem; width: 100%; }
-
-body#index .bio-summary table tbody td:nth-child(1) { vertical-align: top; width: 1.875rem; padding-left: 0; }
-
-body#index .bio-summary table tbody td:nth-child(2) { padding-left: 0; padding-right: 0; }
-
-@media print, screen and (min-width: 40em) { body#index .bio-summary { margin-top: 11.25rem; } }
-
 a#snc-link { color: inherit; }
 
 .p-0 { padding: 0; }

@@ -4385,6 +4385,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -4783,19 +4789,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/components\/css\/_fonts.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/_bio-summary.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_bio-summary.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
