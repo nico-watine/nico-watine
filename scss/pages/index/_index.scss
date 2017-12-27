@@ -8,7 +8,8 @@
 		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
 	}
 
-	p.h4 {
+	.summary {
+		max-width: rem-calc(600);
 		line-height: 1.5;
 	}
 }

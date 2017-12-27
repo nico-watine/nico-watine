@@ -2165,7 +2165,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 
-.index#index p.h4 { line-height: 1.5; }
+.index#index .summary { max-width: 37.5rem; line-height: 1.5; }
 
 .inline-block { display: inline-block; }
 
