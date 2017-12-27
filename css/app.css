@@ -2142,8 +2142,6 @@ body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-a#snc-link { color: inherit; }
-
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }
