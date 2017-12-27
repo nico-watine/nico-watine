@@ -2134,17 +2134,26 @@ a.thumbnail image { box-shadow: none; }
 
 @font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-.title { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
+.p { font-size: 1rem; }
 
-.serif { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
+.h1 { font-size: 2.4375rem; }
 
-h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; }
+.h2 { font-size: 1.4375rem; }
 
-table.transparent thead, table.transparent tbody, table.transparent tfoot { background: transparent; border: none; }
+.h3 { font-size: 1.25rem; }
 
-.contrast * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+.h4 { font-size: 1.125rem; }
 
-a:hover { text-decoration: underline; }
+.h5 { font-size: 1rem; }
+
+.h6 { font-size: 0.875rem; }
+
+@media print, screen and (min-width: 40em) { .h1 { font-size: 5.0625rem; }
+  .h2 { font-size: 2.375rem; }
+  .h3 { font-size: 1.75rem; }
+  .h4 { font-size: 1.3125rem; }
+  .h5 { font-size: 1rem; }
+  .h6 { font-size: 0.75rem; } }
 
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
