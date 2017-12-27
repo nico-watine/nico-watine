@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /** Foundation for Sites by ZURB Version 6.3.1 foundation.zurb.com Licensed under MIT Open Source */
-@import 'https://fonts.googleapis.com/css?family=Montserrat';
 .slide-in-down.mui-enter { transition-duration: 500ms; transition-timing-function: linear; transform: translateY(-100%); transition-property: transform, opacity; backface-visibility: hidden; }
 
 .slide-in-down.mui-enter.mui-enter-active { transform: translateY(0); }
@@ -2131,8 +2130,6 @@ a.thumbnail image { box-shadow: none; }
 .short-delay { animation-delay: 300ms !important; }
 
 .long-delay { animation-delay: 700ms !important; }
-
-@font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 

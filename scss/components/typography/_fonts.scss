@@ -1,17 +1,2 @@
 @import "../../_settings.scss";
 
-@font-face {
-  font-family: 'Aileron Heavy';
-  src: url('#{$url}/fonts/aileron/heavy/Aileron-Heavy.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('#{$url}/fonts/aileron/heavy/Aileron-Heavy.woff') format('woff'), /* Modern Browsers */
-       url('#{$url}/fonts/aileron/heavy/Aileron-Heavy.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('#{$url}/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  400;
-}
-
-
-@import 'https://fonts.googleapis.com/css?family=Montserrat';
-
