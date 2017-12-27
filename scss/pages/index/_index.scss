@@ -1,3 +1,10 @@
 @import "../../_settings.scss";
 
 @import "_background.scss";
+
+.index#index {
+	* {
+		color: #fff;
+		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
+	}
+}
