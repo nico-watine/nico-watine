@@ -1,22 +1,43 @@
 @import "../_settings.scss";
 
+// ---------------------------------
+// |            Display            |
+// ---------------------------------
 
-// NO PADDING
-.p-0 {
-	padding: 0;
+.inline-block {
+	display: inline-block;
 }
 
-// NO MARGIN
-.m-0 {
-	margin: 0;
+.block {
+	display: block;
 }
 
-// PADDING X
-.p-x {
-	padding: 0 rem-calc(16);
+// ---------------------------------------------------------------------- //
+
+
+// ------------------------------------
+// |            box-shadow            |
+// ------------------------------------
+
+.boxShadow-1 {
+	box-shadow: $z-1;
 }
 
-// PADDING Y
-.p-y {
-	padding: rem-calc(16) 0;
+.boxShadow-2 {
+	box-shadow: $z-2;
 }
+
+.boxShadow-3 {
+	box-shadow: $z-3;
+}
+
+.boxShadow-4 {
+	box-shadow: $z-4;
+}
+
+.boxShadow-5 {
+	box-shadow: $z-5;
+}
+
+// ---------------------------------------------------------------------- //
+
