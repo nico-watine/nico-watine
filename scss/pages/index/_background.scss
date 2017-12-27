@@ -11,13 +11,13 @@
 	top: 0;
 	left: 0;
 	z-index: -5;
-	background-image: linear-gradient(180deg, rgba(0,112,170,0.80) 0%, rgba(0,112,170,0.40) 41%, rgba(255,255,255,0.40) 63%, rgba(255,255,255,0.00) 100%);
+	background-image: linear-gradient(180deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
 	background-size: cover;
 	height: 100%;
 	width: 100%;
 
 	@include breakpoint(medium) {
-		background-image: linear-gradient(135deg, rgba(0,112,170,0.80) 0%, rgba(0,112,170,0.40) 36%, rgba(255,255,255,0.40) 66%, rgba(255,255,255,0.00) 100%);
+		background-image: linear-gradient(135deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
 		background-size: cover;
 	}
 }
