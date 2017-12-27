@@ -4793,7 +4793,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_body.scss": {
+	"\/scss\/pages\/index\/_background.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4801,7 +4801,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_body.css",
+		"oAP": "\/scss\/pages\/css\/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
