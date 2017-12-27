@@ -9,10 +9,10 @@ body-id: index
 body-class: index
 ---
 <div class="row">
-	<h1 style="color: #fff;">Nico Watine</h1>
-	<p style="color: #fff;">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere.</p>
-	<h3 style="color: #fff;">Portfolio</h3>
-	<p style="color: #fff;">http://studioncreations.com</p>
+	<h1 style="color: #fff; text-shadow: 0 2px 3px #000;">Nico Watine</h1>
+	<p style="color: #fff; text-shadow: 0 2px 3px #000;">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere.</p>
+	<h3 style="color: #fff; text-shadow: 0 2px 3px #000;">Portfolio</h3>
+	<p style="color: #fff; text-shadow: 0 2px 3px #000;">http://studioncreations.com</p>
 </div>
 <div class="gradient-bg"></div>
 <div class="bg-img"></div>
