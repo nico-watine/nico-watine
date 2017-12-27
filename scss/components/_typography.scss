@@ -1,48 +1,57 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
-
-.title {
-	font-family: $title-font;
-	font-weight: bold;
-	letter-spacing: rem-calc(-0.5);
+.p {
+	font-size: $p;
 }
 
-.serif {
-	font-family: $serif-font;
-	letter-spacing: rem-calc(-0.5);
+.h1 {
+	font-size: $h1;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-a {
-	letter-spacing: rem-calc(-1);
+.h2 {
+	font-size: $h2;
 }
 
+.h3 {
+	font-size: $h3;
+}
 
-table.transparent {
-	thead,
-	tbody,
-	tfoot {
-		background: transparent;
-		border: none;
+.h4 {
+	font-size: $h4;
+}
+
+.h5 {
+	font-size: $h5;
+}
+
+.h6 {
+	font-size: $h6;
+}
+
+@include breakpoint(medium) {
+	.h1 {
+		font-size: $h1-medium;
+	}
+
+	.h2 {
+		font-size: $h2-medium;
+	}
+
+	.h3 {
+		font-size: $h3-medium;
+	}
+
+	.h4 {
+		font-size: $h4-medium;
+	}
+
+	.h5 {
+		font-size: $h5-medium;
+	}
+
+	.h6 {
+		font-size: $h6-medium;
 	}
 }
 
-.contrast {
-	* {
-		color: #fff;
-		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
-	}
-}
-
-a {
-	&:hover {
-		text-decoration: underline;
-	}
-}
