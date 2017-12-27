@@ -2134,18 +2134,6 @@ a.thumbnail image { box-shadow: none; }
 
 @font-face { font-family: 'Aileron Heavy'; src: url("/fonts/aileron/heavy/Aileron-Heavy.eot"); /* IE9 Compat Modes */ src: url("/fonts/aileron/heavy/Aileron-Heavy.eot?#iefix") format("embedded-opentype"), url("/fonts/aileron/heavy/Aileron-Heavy.woff") format("woff"), url("/fonts/aileron/heavy/Aileron-Heavy.ttf") format("truetype"), url("/fonts/aileron/heavy/Aileron-Heavy.svg#0c372db6957edbb62a410a18915ac9ce") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
-.title { font-family: "Aileron Heavy", Arial, "Helvetica Neue", Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.03125rem; }
-
-.serif { font-family: Georgia, Times, "Times New Roman", serif; letter-spacing: -0.03125rem; }
-
-h1, h2, h3, h4, h5, h6, p, a { letter-spacing: -0.0625rem; }
-
-table.transparent thead, table.transparent tbody, table.transparent tfoot { background: transparent; border: none; }
-
-.contrast * { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
-
-a:hover { text-decoration: underline; }
-
 body#index { background: #C8DD64 url("/img/index/bg/default.jpg") center center/cover no-repeat fixed; }
 
 .gradient-bg { position: fixed; top: 0; left: 0; z-index: -5; background-image: linear-gradient(180deg, rgba(0, 112, 170, 0.8) 0%, rgba(0, 112, 170, 0.4) 41%, rgba(255, 255, 255, 0.4) 63%, rgba(255, 255, 255, 0) 100%); background-size: cover; height: 100%; width: 100%; }
