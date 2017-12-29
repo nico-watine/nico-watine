@@ -2171,6 +2171,8 @@ a.thumbnail image { box-shadow: none; }
 
 .block { display: block; }
 
+.flex { display: flex; }
+
 .boxShadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
 .boxShadow-2 { box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
