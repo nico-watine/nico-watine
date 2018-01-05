@@ -2163,11 +2163,11 @@ a.thumbnail image { box-shadow: none; }
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-.index#index .pageContent { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; min-height: 37.5rem; }
+.index#index .heightWrapper { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; min-height: 37.5rem; }
 
-@media only screen and (min-height: 37.5rem) { .index#index .pageContent { height: 100vh; } }
+@media only screen and (min-height: 37.5rem) { .index#index .heightWrapper { height: 100vh; } }
 
-.index#index .pageContent h1 { line-height: 1.2; }
+.index#index .heightWrapper h1 { line-height: 1.2; }
 
 .index#index .summary { max-width: 37.5rem; line-height: 1.5; }
 
