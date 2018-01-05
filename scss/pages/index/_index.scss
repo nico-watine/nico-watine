@@ -2,10 +2,22 @@
 
 @import "_background.scss";
 
+$min-height-600: "only screen and (min-height : 600px)";
+
 .index#index {
-	* {
+	.pageContent {
 		color: #fff;
 		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
+
+		@media #{$min-height-600} {
+			height: 100vh;	
+		}
+
+		min-height: rem-calc(600);
+
+		h1 {
+			line-height: 1.2;
+		}
 	}
 
 	.summary {
