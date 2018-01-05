@@ -2,7 +2,7 @@
 
 @import "_background.scss";
 
-$min-height-600: "only screen and (min-height : 600px)";
+$min-height-600: "only screen and (min-height : rem-calc(600))";
 
 .index#index {
 	.pageContent {
