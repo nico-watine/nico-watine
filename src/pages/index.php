@@ -10,7 +10,7 @@ body-class: index
 ---
 <div class="row flex heightWrapper">
 	<div class="pageContent columns flex">
-		<h1 class="margin-0" style="padding-right: 15px;"><strong>Nico Watine</strong></h1>
+		<h1 class="margin-0"><strong>Nico Watine</strong></h1>
 		<p class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere.</p>
 		<br>
 		<h3 class="margin-0"><strong>Portfolio</strong></h3>

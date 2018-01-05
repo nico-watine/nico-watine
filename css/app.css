@@ -2169,7 +2169,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .pageContent { flex-direction: column; justify-content: center; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 
-.index#index .pageContent h1 { line-height: 1.2; }
+.index#index .pageContent h1 { line-height: 1.2; padding-right: 0.75rem; }
 
 .index#index .summary { max-width: 37.5rem; line-height: 1.5; }
 
