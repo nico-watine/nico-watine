@@ -2,20 +2,26 @@
 
 @import "_background.scss";
 
-$min-height-600: "only screen and (min-height : rem-calc(600))";
+$beta: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(768)) and (max-height : rem-calc(600))";
 
 .index#index {
 	.heightWrapper {
-		@media #{$min-height-600} {
-			height: 100vh;	
-		}
+		height: 100vh;
+		min-height: rem-calc(500);
 
-		min-height: rem-calc(600);
+		@media #{$beta} {
+			max-width: rem-calc(639);
+			max-height: rem-calc(600);
+		}
 	}
 
 	.pageContent {
 		flex-direction: column;
 		justify-content: center;
+
+		@media #{$beta} {
+			justify-content: normal;
+		}
 
 		color: #fff;
 		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
