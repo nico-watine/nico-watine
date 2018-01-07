@@ -2175,6 +2175,10 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
+.index#index .colophonLink { color: #fff; padding-bottom: 0.0625rem; }
+
+.index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.0625rem solid #fff; }
+
 .inline-block { display: inline-block; }
 
 .block { display: block; }

@@ -46,4 +46,14 @@ $minW_640--maxW_768--maxH_600: 'only screen and (min-width : rem-calc(640)) and 
 
         max-width: rem-calc(600);
     }
+
+    .colophonLink {
+        color: #fff;
+        padding-bottom: rem-calc(1);
+
+        &:hover {
+            padding-bottom: 0;
+            border-bottom: rem-calc(1) solid #fff;
+        }
+    }
 }
