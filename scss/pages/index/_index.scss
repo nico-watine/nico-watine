@@ -2,14 +2,14 @@
 
 @import "_background.scss";
 
-$beta: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(768)) and (max-height : rem-calc(600))";
+$minW_640--maxW_768--maxH_600: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(768)) and (max-height : rem-calc(600))";
 
 .index#index {
 	.heightWrapper {
 		height: 100vh;
 		min-height: rem-calc(500);
 
-		@media #{$beta} {
+		@media #{$minW_640--maxW_768--maxH_600} {
 			padding-top: rem-calc(20);
 			max-width: rem-calc(639);
 			max-height: rem-calc(600);
@@ -20,7 +20,7 @@ $beta: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(76
 		flex-direction: column;
 		justify-content: center;
 
-		@media #{$beta} {
+		@media #{$minW_640--maxW_768--maxH_600} {
 			justify-content: normal;
 		}
 
