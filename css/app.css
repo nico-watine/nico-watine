@@ -2173,7 +2173,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
 
-.index#index .pageContent h1 span { line-height: 1.2; }
+.index#index .pageContent h1 span.h3 { line-height: 1.2; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
