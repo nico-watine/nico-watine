@@ -14,7 +14,7 @@ body-class: index
 		<p itemprop="description" class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, and am available for hire anywhere.</p>
 		<br>
 		<h3 class="margin-0"><strong>Portfolio</strong></h3>
-		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink inline-block">https://studioncreations.com</a>
+		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>
 </div>
 <div class="gradient-bg"></div>
