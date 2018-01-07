@@ -11,8 +11,6 @@ body-class: index
 <div class="row flex heightWrapper">
 	<div itemscope itemtype="http://schema.org/Person" class="pageContent columns flex">
 		<h1 itemprop="name" class="margin-0" style="line-height: 1;"><strong><span class="h3 block" style="line-height: 1.2;">Hi, I&rsquo;m</span> Nico Watine</strong></h1>
-		<!-- <h3 class="margin-0" style="line-height: 1;"><strong>Hi, I&rsquo;m</strong></h3> -->
-		<!-- <h1 itemprop="name" class="margin-0" style="line-height: 1;"><strong>Nico Watine</strong></h1> -->
 		<br>
 		<p itemprop="description" class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, and am available for hire anywhere.</p>
 		<br>
