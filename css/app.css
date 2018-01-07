@@ -2173,6 +2173,8 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
 
+.index#index .pageContent h1 span { line-height: 1.2; }
+
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
 .index#index .colophonLink { color: #fff; padding-bottom: 0.0625rem; display: inline-table; }
