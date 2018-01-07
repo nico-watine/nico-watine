@@ -15,7 +15,6 @@ body-class: index
 		<br>
 		<h3 class="margin-0"><strong>Portfolio</strong></h3>
 		<a itemprop="url" href="https://studioncreations.com/" class="h4">https://studioncreations.com</a>
-		<p itemprop="url" class="h4">http://studioncreations.com</p>
 	</div>
 </div>
 <div class="gradient-bg"></div>
