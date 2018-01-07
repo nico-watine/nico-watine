@@ -2177,9 +2177,9 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
-.index#index .colophonLink { color: #fff; padding-bottom: 0.0625rem; display: inline-table; }
+.index#index .colophonLink { color: #fff; padding-bottom: 0.125rem; display: inline-table; }
 
-.index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.0625rem solid #fff; }
+.index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #fff; }
 
 .inline-block { display: inline-block; }
 
