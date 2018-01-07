@@ -2165,7 +2165,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
 
-@media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; } }
+@media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .heightWrapper { padding-top: 1.25rem; max-width: 39.9375rem; max-height: 37.5rem; } }
 
 .index#index .pageContent { flex-direction: column; justify-content: center; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 

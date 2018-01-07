@@ -10,6 +10,7 @@ $beta: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(76
 		min-height: rem-calc(500);
 
 		@media #{$beta} {
+			padding-top: rem-calc(20);
 			max-width: rem-calc(639);
 			max-height: rem-calc(600);
 		}
