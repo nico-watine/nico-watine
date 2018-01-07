@@ -2165,15 +2165,15 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
 
-@media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .heightWrapper { padding-top: 1.25rem; max-width: 39.9375rem; max-height: 37.5rem; } }
+@media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
 
-.index#index .pageContent { flex-direction: column; justify-content: center; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+.index#index .pageContent { flex-direction: column; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; justify-content: center; }
 
 @media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .pageContent { justify-content: normal; } }
 
 .index#index .pageContent h1 { line-height: 1.2; padding-right: 0.75rem; }
 
-.index#index .summary { max-width: 37.5rem; line-height: 1.5; }
+.index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
 .inline-block { display: inline-block; }
 

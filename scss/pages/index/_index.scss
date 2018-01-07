@@ -1,40 +1,49 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
-@import "_background.scss";
+@import '_background.scss';
+$minW_640--maxW_768--maxH_600: 'only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(768)) and (max-height : rem-calc(600))';
 
-$minW_640--maxW_768--maxH_600: "only screen and (min-width : rem-calc(640)) and (max-width : rem-calc(768)) and (max-height : rem-calc(600))";
+.index#index
+{
+    .heightWrapper
+    {
+        height: 100vh;
+        min-height: rem-calc(500);
 
-.index#index {
-	.heightWrapper {
-		height: 100vh;
-		min-height: rem-calc(500);
+        @media #{$minW_640--maxW_768--maxH_600}
+        {
+            max-width: rem-calc(639);
+            max-height: rem-calc(600);
+            padding-top: rem-calc(20);
+        }
+    }
 
-		@media #{$minW_640--maxW_768--maxH_600} {
-			padding-top: rem-calc(20);
-			max-width: rem-calc(639);
-			max-height: rem-calc(600);
-		}
-	}
+    .pageContent
+    {
+        flex-direction: column;
 
-	.pageContent {
-		flex-direction: column;
-		justify-content: center;
+        color: #fff;
+        text-shadow: 0 rem-calc(2) rem-calc(3) #000;
 
-		@media #{$minW_640--maxW_768--maxH_600} {
-			justify-content: normal;
-		}
+        justify-content: center;
 
-		color: #fff;
-		text-shadow: 0 rem-calc(2) rem-calc(3) #000;
+        @media #{$minW_640--maxW_768--maxH_600}
+        {
+            justify-content: normal;
+        }
 
-		h1 {
-			line-height: 1.2;
-			padding-right: rem-calc(12);
-		}
-	}
+        h1
+        {
+            line-height: 1.2;
 
-	.summary {
-		max-width: rem-calc(600);
-		line-height: 1.5;
-	}
+            padding-right: rem-calc(12);
+        }
+    }
+
+    .summary
+    {
+        line-height: 1.5;
+
+        max-width: rem-calc(600);
+    }
 }
