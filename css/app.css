@@ -2171,7 +2171,7 @@ a.thumbnail image { box-shadow: none; }
 
 @media only screen and (min-width: 40rem) and (max-width: 48rem) and (max-height: 37.5rem) { .index#index .pageContent { justify-content: normal; } }
 
-.index#index .pageContent h1 { line-height: 1.2; padding-right: 0.75rem; }
+.index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
