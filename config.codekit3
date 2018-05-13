@@ -7,7 +7,7 @@
 		"uuidString": "D3BB7B96-359F-4300-B464-1CF1B7FC0327"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/.babelrc": {
 		"cB": 0,
@@ -4385,6 +4385,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -4429,6 +4435,7 @@
 	"\/img\/index\/bg\/default.jpg": {
 		"ft": 16384,
 		"iS": 357346,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/bg\/default.jpg",
 		"oF": 0,
@@ -4439,6 +4446,7 @@
 	"\/img\/saxophone\/bg\/beta-test.jpg": {
 		"ft": 16384,
 		"iS": 361831,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/bg\/beta-test.jpg",
 		"oF": 0,
@@ -4449,6 +4457,7 @@
 	"\/img\/saxophone\/bg\/default.jpg": {
 		"ft": 16384,
 		"iS": 234186,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/bg\/default.jpg",
 		"oF": 0,
@@ -4459,6 +4468,7 @@
 	"\/img\/saxophone\/video\/alessia-cara\/here.jpg": {
 		"ft": 16384,
 		"iS": 449723,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/video\/alessia-cara\/here.jpg",
 		"oF": 0,
@@ -4480,6 +4490,7 @@
 	"\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg": {
 		"ft": 16384,
 		"iS": 1295940,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/video\/b-o-b\/pasty-my-shades.jpg",
 		"oF": 0,
@@ -4490,6 +4501,7 @@
 	"\/img\/saxophone\/video\/booker-t\/green-onions.jpg": {
 		"ft": 16384,
 		"iS": 282163,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/video\/booker-t\/green-onions.jpg",
 		"oF": 0,
@@ -4500,6 +4512,7 @@
 	"\/img\/saxophone\/video\/cee-lo-green\/forget-you.jpg": {
 		"ft": 16384,
 		"iS": 99394,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/video\/cee-lo-green\/forget-you.jpg",
 		"oF": 0,
@@ -4510,6 +4523,7 @@
 	"\/img\/saxophone\/video\/ray-charles\/shake-a-tailfeather.jpg": {
 		"ft": 16384,
 		"iS": 453112,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/saxophone\/video\/ray-charles\/shake-a-tailfeather.jpg",
 		"oF": 0,
@@ -4911,7 +4925,8 @@
 	"creationDate": 503509438,
 	"displayValue": "nico-watine",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-hart"
+	"iconImageName": "meme-hart",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -4919,6 +4934,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -5482,6 +5498,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -6709,6 +6729,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
