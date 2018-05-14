@@ -2165,11 +2165,11 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
 
-@media only screen and (min-width: 640px) and (max-width: 768px) and (max-height: 600px) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
+@media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
 
 .index#index .pageContent { flex-direction: column; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; justify-content: center; }
 
-@media only screen and (min-width: 640px) and (max-width: 768px) and (max-height: 600px) { .index#index .pageContent { justify-content: normal; } }
+@media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .pageContent { justify-content: normal; } }
 
 .index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
 

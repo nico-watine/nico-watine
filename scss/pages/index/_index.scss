@@ -1,6 +1,6 @@
 @import '../../_settings.scss';
 @import '_background.scss';
-$minW_640--maxW_768--maxH_600: 'only screen and (min-width : 640px) and (max-width : 768px) and (max-height : 600px)';
+$minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-width : 48em) and (max-height : 37.5em)';
 
 .index#index {
     .heightWrapper {
