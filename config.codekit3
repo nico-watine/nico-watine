@@ -4443,6 +4443,28 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/img\/index\/background\/_dev\/houston-tx-downtown.jpg": {
+		"ft": 16384,
+		"iS": 8386371,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/index\/background\/_dev\/houston-tx-downtown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/background\/large\/houston-tx-downtown.jpg": {
+		"ft": 16384,
+		"iS": 265315,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/index\/background\/large\/houston-tx-downtown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/index\/bg\/default.jpg": {
 		"ft": 16384,
 		"iS": 357346,
