@@ -2,7 +2,8 @@
 
 
 .index#index {
-	background: #C8DD64 url('#{$url}/img/index/bg/default.jpg') center center/cover no-repeat fixed;
+	background: #C8DD64 url('#{$url}/img/index/background/large/houston-tx-downtown.jpg') center center/cover no-repeat fixed;
+	// background: black;
 }
 
 
@@ -11,15 +12,16 @@
 	top: 0;
 	left: 0;
 	z-index: -5;
-	background-image: linear-gradient(180deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
+	// background-image: linear-gradient(180deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
+	background-image: linear-gradient(156deg, rgba(255,255,255,0.80) 0%, rgba(255,255,255,0.80) 29%, rgba(255,255,255,0.54) 38%, rgba(255,255,255,0.50) 45%, rgba(255,255,255,0.40) 56%, rgba(255,255,255,0.00) 69%);
 	background-size: cover;
 	height: 100%;
 	width: 100%;
 
-	@include breakpoint(medium) {
-		background-image: linear-gradient(135deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
-		background-size: cover;
-	}
+	// @include breakpoint(medium) {
+		// background-image: linear-gradient(135deg, rgba(16,129,185,0.80) 0%, rgba(16,129,185,0.80) 28%, rgba(0,113,170,0.50) 51%, rgba(255,255,255,0.40) 74%, rgba(255,255,255,0.00) 100%);
+		// background-size: cover;
+	// }
 }
 
 .bg-img {

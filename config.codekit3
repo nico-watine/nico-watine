@@ -44,6 +44,17 @@
 		"oAP": "\/_ignores\/clone-setup-guide.txt",
 		"oF": 0
 		},
+	"\/_ignores\/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 2231,
+		"oA": 0,
+		"oAP": "\/_ignores\/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_ignores\/head\/favicon-linking.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4385,6 +4396,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -4425,6 +4442,28 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/index\/background\/_dev\/houston-tx-downtown.jpg": {
+		"ft": 16384,
+		"iS": 8386371,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/index\/background\/_dev\/houston-tx-downtown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/background\/large\/houston-tx-downtown.jpg": {
+		"ft": 16384,
+		"iS": 265315,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/index\/background\/large\/houston-tx-downtown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/index\/bg\/default.jpg": {
 		"ft": 16384,
@@ -4889,13 +4928,6 @@
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
-	"\/src\/pages\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/src\/pages\/index.php",
-		"oF": 1
-		},
 	"\/src\/partials\/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -4919,7 +4951,7 @@
 	"creationDate": 503509438,
 	"displayValue": "nico-watine",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-hart",
+	"iconImageName": "\/_ignores\/codekit-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
