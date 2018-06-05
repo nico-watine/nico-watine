@@ -19,4 +19,4 @@ body-class: index
 	</div>
 </div>
 <div class="gradient-bg"></div>
-<div class="bg-img"></div>
+<!-- <div class="bg-img"></div> -->
