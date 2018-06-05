@@ -3,51 +3,49 @@
 $minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-width : 48em) and (max-height : 37.5em)';
 
 .index#index {
-    .heightWrapper {
-        height: 100vh;
-        min-height: rem-calc(500);
+	.heightWrapper {
+		height: 100vh;
+		min-height: rem-calc(500);
 
-        @media #{$minW_640--maxW_768--maxH_600} {
-            max-width: rem-calc(639);
-            max-height: rem-calc(600);
-            padding-top: rem-calc(20);
-        }
-    }
+		@media #{$minW_640--maxW_768--maxH_600} {
+			max-width: rem-calc(639);
+			max-height: rem-calc(600);
+			padding-top: rem-calc(20);
+		}
+	}
 
-    .pageContent {
-        flex-direction: column;
-        // color: #fff;
-        // text-shadow: 0 rem-calc(2) rem-calc(3) #000;
-        justify-content: center;
+	.pageContent {
+		flex-direction: column;
+		// justify-content: center;
 
-        @media #{$minW_640--maxW_768--maxH_600} {
-            justify-content: normal;
-        }
+		@media #{$minW_640--maxW_768--maxH_600} {
+			// justify-content: normal;
+		}
 
-        h1 {
-            line-height: 1;
-            padding-right: rem-calc(12);
+		h1 {
+			line-height: 1;
+			padding-right: rem-calc(12);
 
-            span.h3 {
-                line-height: 1.2;
-            }
-        }
-    }
+			span.h3 {
+				line-height: 1.2;
+			}
+		}
+	}
 
-    .summary {
-        line-height: 1.5;
-        max-width: rem-calc(600);
-    }
+	.summary {
+		line-height: 1.5;
+		max-width: rem-calc(600);
+	}
 
-    .colophonLink {
-        color: #fff;
-        color: $black;
-        padding-bottom: rem-calc(2);
-        display: inline-table;
+	.colophonLink {
+		color: #fff;
+		color: $black;
+		padding-bottom: rem-calc(2);
+		display: inline-table;
 
-        &:hover {
-            padding-bottom: 0;
-            border-bottom: rem-calc(2) solid #fff;
-        }
-    }
+		&:hover {
+			padding-bottom: 0;
+			border-bottom: rem-calc(2) solid #fff;
+		}
+	}
 }
