@@ -2165,9 +2165,7 @@ a.thumbnail image { box-shadow: none; }
 
 @media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
 
-.index#index .pageContent { flex-direction: column; justify-content: center; }
-
-@media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .pageContent { justify-content: normal; } }
+.index#index .pageContent { flex-direction: column; }
 
 .index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
 
