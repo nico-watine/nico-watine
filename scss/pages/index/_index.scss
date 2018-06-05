@@ -16,8 +16,8 @@ $minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-widt
 
     .pageContent {
         flex-direction: column;
-        color: #fff;
-        text-shadow: 0 rem-calc(2) rem-calc(3) #000;
+        // color: #fff;
+        // text-shadow: 0 rem-calc(2) rem-calc(3) #000;
         justify-content: center;
 
         @media #{$minW_640--maxW_768--maxH_600} {
@@ -41,6 +41,7 @@ $minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-widt
 
     .colophonLink {
         color: #fff;
+        color: $black;
         padding-bottom: rem-calc(2);
         display: inline-table;
 

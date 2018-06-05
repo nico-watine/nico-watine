@@ -2165,7 +2165,7 @@ a.thumbnail image { box-shadow: none; }
 
 @media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
 
-.index#index .pageContent { flex-direction: column; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; justify-content: center; }
+.index#index .pageContent { flex-direction: column; justify-content: center; }
 
 @media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .pageContent { justify-content: normal; } }
 
@@ -2175,7 +2175,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
-.index#index .colophonLink { color: #fff; padding-bottom: 0.125rem; display: inline-table; }
+.index#index .colophonLink { color: #fff; color: #0a0a0a; padding-bottom: 0.125rem; display: inline-table; }
 
 .index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #fff; }
 
