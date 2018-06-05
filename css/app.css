@@ -2152,7 +2152,7 @@ a.thumbnail image { box-shadow: none; }
   .h5 { font-size: 1rem; }
   .h6 { font-size: 0.75rem; } }
 
-.index#index { background: black; }
+.index#index { background: #C8DD64 url("/img/index/background/large/houston-tx-downtown.jpg") center center/cover no-repeat fixed; }
 
 .gradient-bg { position: fixed; top: 0; left: 0; z-index: -5; background-image: linear-gradient(156deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.8) 29%, rgba(255, 255, 255, 0.54) 38%, rgba(255, 255, 255, 0.5) 45%, rgba(255, 255, 255, 0.4) 56%, rgba(255, 255, 255, 0) 69%); background-size: cover; height: 100%; width: 100%; }
 
