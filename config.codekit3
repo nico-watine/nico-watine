@@ -44,6 +44,17 @@
 		"oAP": "\/_ignores\/clone-setup-guide.txt",
 		"oF": 0
 		},
+	"\/_ignores\/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 2231,
+		"oA": 0,
+		"oAP": "\/_ignores\/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_ignores\/head\/favicon-linking.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4385,6 +4396,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/fonts\/aileron\/heavy\/Aileron-Heavy.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -4919,7 +4936,7 @@
 	"creationDate": 503509438,
 	"displayValue": "nico-watine",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-hart",
+	"iconImageName": "\/_ignores\/codekit-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
