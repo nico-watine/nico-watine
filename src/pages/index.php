@@ -16,8 +16,8 @@ body-class: index
 		<p itemprop="description" class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <strong><span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span></strong>, and am available for hire anywhere.</p>
 	</div>
 </div>
-<aside class="skylineDetail" style="position: absolute; bottom: 0; width: 100%; height: 220px;">
-	<div class="prose" style="padding: 0 15px 15px; position: absolute; bottom: 0; width: 100%; text-align: right;">
+<aside class="skylineDetail">
+	<div class="prose">
 		<h3 class="margin-0"><strong>Portfolio</strong></h3>
 		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>

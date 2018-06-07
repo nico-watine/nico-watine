@@ -2161,9 +2161,12 @@ a.thumbnail image { box-shadow: none; }
 @keyframes opacity-keyframe { 0% { opacity: 1; }
   100% { opacity: 0; } }
 
-.index#index .skylineDetail { background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat; }
+.index#index .skylineDetail { background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat; position: absolute; bottom: 0; width: 100%; height: 220px; }
 
-@media screen and (min-width: 45em) { .index#index .skylineDetail { background-size: contain; background-position: right bottom; } }
+.index#index .skylineDetail .prose { padding: 0 15px 15px; position: absolute; bottom: 0; width: 100%; text-align: right; }
+
+@media screen and (min-width: 45em) { .index#index .skylineDetail { background-size: contain; background-position: right bottom; }
+  .index#index .skylineDetail .prose { padding: 0 30px 15px; } }
 
 .index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
 
