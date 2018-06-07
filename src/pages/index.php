@@ -13,7 +13,7 @@ body-class: index
 	<div itemscope itemtype="http://schema.org/Person" class="columns">
 		<h1 style="line-height: 1.1;"><strong><span class="h3 block">Hi, I&rsquo;m</span> <span style="line-height: 1;" itemprop="name">Nico Watine</span></strong></h1>
 		<span><br></span>
-		<p itemprop="description" class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span>, and am available for hire anywhere.</p>
+		<p itemprop="description" class="h4 summary">I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in <strong><span itemprop="addressLocality">Houston</span>, <span itemprop="addressRegion">TX</span></strong>, and am available for hire anywhere.</p>
 	</div>
 </div>
 <aside class="skylineDetail" style="position: absolute; bottom: 0; width: 100%; height: 220px;">
