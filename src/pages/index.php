@@ -23,5 +23,3 @@ body-class: index
 	</div>
 </aside>
 </div>
-<!-- <div class="gradient-bg"></div> -->
-<!-- <div class="bg-img"></div> -->
