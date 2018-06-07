@@ -20,7 +20,9 @@ body-class: index
 	</div>
 </div>
 <aside class="skylineDetail" style="position: absolute; bottom: 0;">
-	<p style="position: absolute; bottom: 0; width: 100%; text-align: right; padding-right: 30px;">Lorem ipsum dolor</p>
+	<div class="prose" style="position: absolute; bottom: 0; width: 100%; padding: 0 30px;">
+		<p>Lorem ipsum dolor</p>
+	</div>
 	<img src="/img/index/background/houston-skyline-detail.png" alt="Houston TX Skyline">
 </aside>
 </div>
