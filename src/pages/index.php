@@ -19,12 +19,13 @@ body-class: index
 		<!-- <a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a> -->
 	</div>
 </div>
-<aside class="skylineDetail" style="position: absolute; bottom: 0;">
-	<div class="prose" style="position: absolute; bottom: 0; width: 100%; padding: 0 30px;">
+<aside class="skylineDetail" style="position: absolute; bottom: 0; width: 100%; height: 220px; z-index: -1;">
+	<div class="prose" style="padding: 0 15px 15px; position: absolute; bottom: 0; width: 100%; text-align: right;">
 		<h3 class="margin-0"><strong>Portfolio</strong></h3>
-		<p class="h4">Lorem ipsum dolor</p>
+		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
+		<!-- <p class="h4">Lorem ipsum dolor</p> -->
 	</div>
-	<img src="/img/index/background/houston-skyline-detail.png" alt="Houston TX Skyline">
+	<!-- <img src="/img/index/background/houston-skyline-detail.png" alt="Houston TX Skyline"> -->
 </aside>
 </div>
 <!-- <div class="gradient-bg"></div> -->
