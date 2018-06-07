@@ -46,7 +46,7 @@ $minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-widt
 
 		&:hover {
 			padding-bottom: 0;
-			border-bottom: rem-calc(2) solid #fff;
+			border-bottom: rem-calc(2) solid #000;
 		}
 	}
 }

@@ -2177,7 +2177,7 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .colophonLink { color: #fff; color: #0a0a0a; padding-bottom: 0.125rem; display: inline-table; }
 
-.index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #fff; }
+.index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #000; }
 
 html, body { height: 100%; }
 
