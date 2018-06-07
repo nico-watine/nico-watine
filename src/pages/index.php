@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="row flex heightWrapper">
+<div class="row flex heightWrapper" style="padding-top: 50px;">
 	<div itemscope itemtype="http://schema.org/Person" class="pageContent columns flex">
 		<h1 class="margin-0"><strong><span class="h3 block">Hi, I&rsquo;m</span> <span itemprop="name">Nico Watine</span></strong></h1>
 		<span><br></span>
@@ -18,5 +18,5 @@ body-class: index
 		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>
 </div>
-<div class="gradient-bg"></div>
-<div class="bg-img"></div>
+<!-- <div class="gradient-bg"></div> -->
+<!-- <div class="bg-img"></div> -->
