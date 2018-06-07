@@ -4454,6 +4454,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/index\/background\/houston-skyline-detail.png": {
+		"ft": 32768,
+		"iS": 14462,
+		"oA": 0,
+		"oAP": "\/img\/index\/background\/houston-skyline-detail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/index\/background\/large\/houston-tx-downtown.jpg": {
 		"ft": 16384,
 		"iS": 110653,
