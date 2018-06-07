@@ -18,5 +18,5 @@ body-class: index
 		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>
 </div>
-<div class="gradient-bg"></div>
+<!-- <div class="gradient-bg"></div> -->
 <!-- <div class="bg-img"></div> -->
