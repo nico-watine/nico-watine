@@ -1,35 +1,14 @@
 @import '../../_settings.scss';
 @import '_background.scss';
-@import "_skylineDetail.scss";
-$minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-width : 48em) and (max-height : 37.5em)';
+@import '_skylineDetail.scss';
 
 .index#index {
 	.heightWrapper {
-		height: 100vh;
-		min-height: rem-calc(500);
+		min-height: 100%;
+		position: relative;
 
-		@media #{$minW_640--maxW_768--maxH_600} {
-			max-width: rem-calc(639);
-			max-height: rem-calc(600);
-			padding-top: rem-calc(20);
-		}
-	}
-
-	.pageContent {
-		flex-direction: column;
-		// justify-content: center;
-
-		@media #{$minW_640--maxW_768--maxH_600} {
-			// justify-content: normal;
-		}
-
-		h1 {
-			line-height: 1;
-			padding-right: rem-calc(12);
-
-			span.h3 {
-				line-height: 1.2;
-			}
+		.row {
+			padding: 30px 0 220px;
 		}
 	}
 
@@ -39,10 +18,8 @@ $minW_640--maxW_768--maxH_600: 'only screen and (min-width : 40em) and (max-widt
 	}
 
 	.colophonLink {
-		color: #fff;
 		color: $black;
 		padding-bottom: rem-calc(2);
-		display: inline-table;
 
 		&:hover {
 			padding-bottom: 0;

@@ -8,8 +8,8 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="height-wrapper" style="min-height: 100%; position: relative;">
-<div class="row" style="padding-top: 30px; padding-bottom: 220px;">
+<div class="heightWrapper">
+<div class="row">
 	<div itemscope itemtype="http://schema.org/Person" class="columns">
 		<h1 style="line-height: 1.1;"><strong><span class="h3 block">Hi, I&rsquo;m</span> <span style="line-height: 1;" itemprop="name">Nico Watine</span></strong></h1>
 		<span><br></span>

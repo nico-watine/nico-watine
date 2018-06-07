@@ -2168,19 +2168,13 @@ a.thumbnail image { box-shadow: none; }
 @media screen and (min-width: 45em) { .index#index .skylineDetail { background-size: contain; background-position: right bottom; }
   .index#index .skylineDetail .prose { padding: 0 30px 15px; } }
 
-.index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
+.index#index .heightWrapper { min-height: 100%; position: relative; }
 
-@media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }
-
-.index#index .pageContent { flex-direction: column; }
-
-.index#index .pageContent h1 { line-height: 1; padding-right: 0.75rem; }
-
-.index#index .pageContent h1 span.h3 { line-height: 1.2; }
+.index#index .heightWrapper .row { padding: 30px 0 220px; }
 
 .index#index .summary { line-height: 1.5; max-width: 37.5rem; }
 
-.index#index .colophonLink { color: #fff; color: #0a0a0a; padding-bottom: 0.125rem; display: inline-table; }
+.index#index .colophonLink { color: #0a0a0a; padding-bottom: 0.125rem; }
 
 .index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #000; }
 
