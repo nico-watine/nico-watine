@@ -1,0 +1,28 @@
+.index#index {
+	.skylineDetail {
+		background: transparent url('/img/index/background/houston-skyline-detail.png') center top/cover no-repeat;
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 220px;
+
+		.prose {
+			padding: 0 15px 15px;
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			text-align: right;
+		}
+	}
+
+	@include breakpoint(720) {
+		.skylineDetail {
+			background-size: contain;
+			background-position: right bottom;
+
+			.prose {
+				padding: 0 30px 15px;
+			}
+		}
+	}
+}
