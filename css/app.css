@@ -2177,6 +2177,8 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .colophonLink:hover { padding-bottom: 0; border-bottom: 0.125rem solid #fff; }
 
+html, body { height: 100%; }
+
 .inline-block { display: inline-block; }
 
 .block { display: block; }
