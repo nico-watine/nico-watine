@@ -2163,6 +2163,8 @@ a.thumbnail image { box-shadow: none; }
 
 .index#index .skylineDetail { background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat; }
 
+@media screen and (min-width: 45em) { .index#index .skylineDetail { background-size: contain; background-position: right bottom; } }
+
 .index#index .heightWrapper { height: 100vh; min-height: 31.25rem; }
 
 @media only screen and (min-width: 40em) and (max-width: 48em) and (max-height: 37.5em) { .index#index .heightWrapper { max-width: 39.9375rem; max-height: 37.5rem; padding-top: 1.25rem; } }

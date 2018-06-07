@@ -1,5 +1,12 @@
 .index#index {
 	.skylineDetail {
-		background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat;
+		background: transparent url('/img/index/background/houston-skyline-detail.png') center top/cover no-repeat;
+	}
+
+	@include breakpoint(720) {
+		.skylineDetail {
+			background-size: contain;
+			background-position: right bottom;
+		}
 	}
 }
