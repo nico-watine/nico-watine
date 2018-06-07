@@ -18,8 +18,8 @@ body-class: index
 		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>
 </div>
-<aside class="skylineDetail" style="position: absolute; bottom: 0; height: 100px; background: red; max-width: 800px; width: 100%;">
-	
+<aside class="skylineDetail" style="position: absolute; bottom: 0; max-width: 800px; width: 100%;">
+	<img src="/img/index/background/houston-skyline-detail.png" alt="Houston TX Skyline">
 </aside>
 <!-- <div class="gradient-bg"></div> -->
 <!-- <div class="bg-img"></div> -->
