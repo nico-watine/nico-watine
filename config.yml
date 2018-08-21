@@ -3,6 +3,8 @@
 COMPATIBILITY:
   - "last 2 versions"
   - "ie >= 9"
+  - "Android >= 2.3"
+  - "ios >= 7"
 
 # UnCSS will use these settings
 UNCSS_OPTIONS:
@@ -15,7 +17,7 @@ UNCSS_OPTIONS:
 # Gulp will reference these paths when it copies files
 PATHS:
   # Path to dist folder
-  dist: "dist"  
+  dist: "dist"
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "assets/.htaccess" # <- specify import invisible file .htaccess
