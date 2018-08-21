@@ -5387,6 +5387,12 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5459,7 +5465,7 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
+	"\/js\/vendor\/jquery\/3-3-1\/jquery-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
