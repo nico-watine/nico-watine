@@ -23,6 +23,13 @@
 		"oAP": "\/.bowerrc",
 		"oF": 0
 		},
+	"\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.editorconfig",
+		"oF": 0
+		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -158,6 +165,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/assets\/pinterest-2d145.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/pinterest-2d145.html",
 		"oF": 0
 		},
 	"\/assets\/robots.txt": {
