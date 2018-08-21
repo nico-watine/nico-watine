@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -20,9 +20,9 @@
 	<meta property="og:site_name" content="Nico Watine">
 	<meta property="og:image" content="https://nicowatine.me{{ og-image }}">
 	<meta property="fb:app_id" content="579535815583756">
-	
+
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
-		
+
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
@@ -32,8 +32,8 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-4/jquery-min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/3-3-1/jquery-min.js"><\/script>')</script>
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
 
 {{> google-tracking-id}}
