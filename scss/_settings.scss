@@ -1,8 +1,7 @@
 //  IMPORT CUSTOM SETTINGS FILE ::
 @import "settings/_custom-settings.scss";
-// 
-
- // Foundation for Sites Settings v6.3.1
+//  -----------------------------
+//  Foundation for Sites Settings
 //  -----------------------------
 //
 //  Table of Contents:
@@ -99,11 +98,14 @@ $breakpoint-classes: (small medium large);
 $grid-row-width: $global-width;
 $grid-column-count: 12;
 $grid-column-gutter: (
-  small: 20px,
-  medium: 24px,
-  large: 30px,
+	small: 20px, // +4
+	medium: 24px, // +8
+	large: 32px
+	// Only specify below gutters if using a $global-width of more than the standard 1200px
+	// xlarge: 40px
 );
 $grid-column-align-edge: true;
+$grid-column-alias: 'columns';
 $block-grid-max: 8;
 
 // 4. Base Typography
