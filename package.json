@@ -1,13 +1,11 @@
 {
-  "name": "zurb-f6-boilerplate",
-  "version": "1.0.0",
-  "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
-  "main": "gulpfile.js",
+  "name": "nico-watine",
+  "description": "www.nicowatine.me project repo. Site built on zurb-f6-boilerplate.",
   "scripts": {
     "start": "gulp",
     "build": "gulp build --production"
   },
-  "author": "Nico Watine <nico@studioncreations.com>",
+  "author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
