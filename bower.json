@@ -1,26 +1,18 @@
 {
-  "name": "foundation-ssg",
-  "version": "1.0.0",
-  "authors": [
-    "ZURB <foundation@zurb.com>"
-  ],
-  "description": "Static site generator for Foundation for Sites.",
-  "main": "gulpfile.js",
+	"name": "nico-watine",
+	"authors": [
+		"Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+	],
+	"description": "www.nicowatine.me project repo. Site built on zurb-f6-boilerplate.",
+	"main": "gulpfile.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "foundation-sites": "^6.4.3",
     "motion-ui": "~1.2.2"
-  },
-  "private": true,
-  "resolutions": {
-    "what-input": "~4.1.3",
-    "foundation-sites": "^6.4.3"
   }
 }
