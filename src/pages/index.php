@@ -23,4 +23,3 @@ body-class: index
 	</div>
 </aside>
 </div>
-<!-- <div class="bg-img"></div> -->
