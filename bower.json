@@ -5,14 +5,14 @@
 	],
 	"description": "www.nicowatine.me project repo. Site built on zurb-f6-boilerplate.",
 	"main": "gulpfile.js",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components"
-  ],
-  "dependencies": {
-    "foundation-sites": "^6.4.3",
-    "motion-ui": "~1.2.2"
-  }
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"foundation-sites": "^6.4.3",
+		"motion-ui": "~1.2.2"
+	}
 }
