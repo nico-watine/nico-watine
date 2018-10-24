@@ -18,7 +18,7 @@ body-class: index
 </div>
 <aside class="skylineDetail">
 	<div class="prose">
-		<h3 class="margin-0"><strong>Portfolio</strong></h3>
+		<h3 class="margin-0"><strong>Portfolio &amp; Contact</strong></h3>
 		<a itemprop="url" href="https://studioncreations.com/" class="h4 colophonLink">https://studioncreations.com</a>
 	</div>
 </aside>
