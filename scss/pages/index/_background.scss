@@ -3,6 +3,7 @@
 
 .index#index {
 	background: #fff url('#{$url}/img/index/background/large/houston-tx-downtown.jpg') right center/cover no-repeat fixed;
+	padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
 .bg-img {
