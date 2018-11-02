@@ -5,8 +5,10 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+
 <url>
-  <loc>http://nicowatine.me/</loc>
-  <lastmod>2017-01-22T01:37:23+00:00</lastmod>
+  <loc>https://nicowatine.me/</loc>
 </url>
+
+
 </urlset>
