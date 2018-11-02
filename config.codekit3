@@ -55,6 +55,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_ignores/gtm-tag.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/gtm-tag.html",
+		"oF": 0
+		},
 	"/_ignores/head/favicon-linking.html": {
 		"cB": 0,
 		"ft": 8192,
