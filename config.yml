@@ -10,8 +10,8 @@ COMPATIBILITY:
 UNCSS_OPTIONS:
   html:
     - "dist/**/*.{html,php,htm}"
-  ignore:
-    - !!js/regexp .foundation-mq
+  # ignore:
+    # - !!js/regexp .foundation-mq
     # - !!js/regexp ^\.is-.*
 
 # Gulp will reference these paths when it copies files
