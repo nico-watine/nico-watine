@@ -1,10 +1,9 @@
 {
 	"name": "nico-watine",
-	"authors": [
+	"author": [
 		"Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
 	],
 	"description": "www.nicowatine.me project repo. Site built on zurb-f6-boilerplate.",
-	"main": "gulpfile.js",
 	"license": "MIT",
 	"ignore": [
 		"**/.*",
@@ -12,7 +11,7 @@
 		"bower_components"
 	],
 	"dependencies": {
-		"foundation-sites": "^6.4.3",
-		"motion-ui": "~1.2.2"
+    "foundation-sites": "6.5.3",
+    "motion-ui": "2.0.3"
 	}
 }
