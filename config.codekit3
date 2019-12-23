@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "31934",
 "files": {
-	"/.babelrc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/.babelrc",
-		"oF": 0
-		},
 	"/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
