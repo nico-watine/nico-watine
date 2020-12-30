@@ -3930,6 +3930,12 @@ ol.list-upper-roman {
   border-bottom: 0.125rem solid #000;
 }
 
+@media (prefers-color-scheme: dark) {
+  #index.index {
+    background: #fff url("/img/index-dark/background/large/houston-tx-downtown-at-night.jpg") left bottom/cover no-repeat fixed;
+  }
+}
+
 html,
 body {
   height: 100%;
