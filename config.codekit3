@@ -6321,6 +6321,28 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/img/index-dark/background/houston-skyline-detail.png": {
+		"ft": 32768,
+		"iS": 14462,
+		"oA": 0,
+		"oAP": "/img/index-dark/background/houston-skyline-detail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/index-dark/background/large/houston-tx-downtown-at-night.jpg": {
+		"ft": 16384,
+		"iS": 184364,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index-dark/background/large/houston-tx-downtown-at-night.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/background/houston-skyline-detail.png": {
 		"ft": 32768,
 		"iS": 14462,
