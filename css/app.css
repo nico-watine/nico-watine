@@ -3881,7 +3881,11 @@ ol.list-upper-roman {
 }
 
 #index.index .skylineDetail {
-  background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat;
+  background-color: transparent;
+  background-image: url("/img/index/background/houston-skyline-detail.png");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -3940,6 +3944,9 @@ ol.list-upper-roman {
   }
   #index.index .colophonLink:hover {
     border-bottom: 0.125rem solid #e4e4e4;
+  }
+  #index.index .skylineDetail {
+    background-image: url("/img/index-dark/background/houston-skyline-dark.png");
   }
 }
 

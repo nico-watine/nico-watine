@@ -6321,11 +6321,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/img/index-dark/background/houston-skyline-detail.png": {
+	"/img/index-dark/background/houston-skyline-dark.png": {
 		"ft": 32768,
-		"iS": 14462,
+		"iS": 16003,
 		"oA": 0,
-		"oAP": "/img/index-dark/background/houston-skyline-detail.png",
+		"oAP": "/img/index-dark/background/houston-skyline-dark.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
