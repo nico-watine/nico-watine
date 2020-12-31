@@ -1,0 +1,24 @@
+@media (prefers-color-scheme: dark) {
+	.index#index {
+		background: #fff url('#{$url}/img/index-dark/background/large/houston-tx-downtown-at-night.jpg') left bottom/cover no-repeat fixed;
+
+		.summary {
+			background: rgba(34,34,34,0.75);
+		}
+
+		.prose,
+		.colophonLink {
+			color: #e4e4e4;
+		}
+
+		.colophonLink {
+			&:hover {
+				border-bottom: rem-calc(2) solid #e4e4e4;
+			}
+		}
+
+		.skylineDetail {
+			background-image: url('/img/index-dark/background/houston-skyline-dark.png');
+		}
+	}
+}

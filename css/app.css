@@ -3881,7 +3881,11 @@ ol.list-upper-roman {
 }
 
 #index.index .skylineDetail {
-  background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat;
+  background-color: transparent;
+  background-image: url("/img/index/background/houston-skyline-detail.png");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -3928,6 +3932,25 @@ ol.list-upper-roman {
 #index.index .colophonLink:hover {
   padding-bottom: 0;
   border-bottom: 0.125rem solid #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  #index.index {
+    background: #fff url("/img/index-dark/background/large/houston-tx-downtown-at-night.jpg") left bottom/cover no-repeat fixed;
+  }
+  #index.index .summary {
+    background: rgba(34, 34, 34, 0.75);
+  }
+  #index.index .prose,
+#index.index .colophonLink {
+    color: #e4e4e4;
+  }
+  #index.index .colophonLink:hover {
+    border-bottom: 0.125rem solid #e4e4e4;
+  }
+  #index.index .skylineDetail {
+    background-image: url("/img/index-dark/background/houston-skyline-dark.png");
+  }
 }
 
 html,
