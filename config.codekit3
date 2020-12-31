@@ -6676,19 +6676,6 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/scss/pages/index-dark/_background.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_background.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
 	"/scss/pages/index-dark/_index-dark.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6698,19 +6685,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_index-dark.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/scss/pages/index-dark/_skylineDetail.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_skylineDetail.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
