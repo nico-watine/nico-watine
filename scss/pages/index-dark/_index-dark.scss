@@ -1,5 +1,16 @@
 @media (prefers-color-scheme: dark) {
 	.index#index {
 		background: #fff url('#{$url}/img/index-dark/background/large/houston-tx-downtown-at-night.jpg') left bottom/cover no-repeat fixed;
+
+		.prose,
+		.colophonLink {
+			color: #e4e4e4;
+		}
+
+		.colophonLink {
+			&:hover {
+				border-bottom: rem-calc(2) solid #e4e4e4;
+			}
+		}
 	}
 }

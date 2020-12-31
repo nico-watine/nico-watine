@@ -3934,6 +3934,13 @@ ol.list-upper-roman {
   #index.index {
     background: #fff url("/img/index-dark/background/large/houston-tx-downtown-at-night.jpg") left bottom/cover no-repeat fixed;
   }
+  #index.index .prose,
+#index.index .colophonLink {
+    color: #e4e4e4;
+  }
+  #index.index .colophonLink:hover {
+    border-bottom: 0.125rem solid #e4e4e4;
+  }
 }
 
 html,
