@@ -2,6 +2,10 @@
 	.index#index {
 		background: #fff url('#{$url}/img/index-dark/background/large/houston-tx-downtown-at-night.jpg') left bottom/cover no-repeat fixed;
 
+		.summary {
+			background: rgba(34,34,34,0.75);
+		}
+
 		.prose,
 		.colophonLink {
 			color: #e4e4e4;
