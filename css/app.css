@@ -5,7 +5,6 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
@@ -3806,23 +3805,8 @@ ol.list-upper-roman {
   animation-delay: 700ms !important;
 }
 
-@font-face {
-  font-family: 'Machine';
-  src: url("/fonts/machine/machine.woff2") format("woff2"), url("/fonts/machine/machine.woff") format("woff"), url("/fonts/machine/machine.otf") format("opentype");
-  font-style: normal;
-  font-weight: 400;
-}
-
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
-}
-
-.ff-machine {
-  font-family: 'Machine', serif;
-}
-
-.ff-lato {
-  font-family: 'Lato', sans-serif;
 }
 
 .font-weight-100,
