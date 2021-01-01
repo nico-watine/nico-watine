@@ -55,13 +55,11 @@
 // |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
 // ------------------------------------------------------------------------------
 
-// #1 TYPOGRAPHY
-@import 'components/_typography.scss';
+@import 'elements/_elements.scss';
 
-@import "pages/_pages.scss";
+@import 'pages/_pages.scss';
 
-// #4 MISC COMPONENTS
-@import 'components/_extras.scss';
-@import 'components/_resets.scss';
-@import 'components/_utility-classes.scss';
-@import 'components/_metrics.scss';
+html,
+body {
+    height: 100%;
+}
