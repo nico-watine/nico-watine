@@ -6611,6 +6611,19 @@
 		"oS": 0,
 		"sct": 1
 		},
+	"/scss/pages/_pages.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_pages.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
 	"/scss/pages/index-dark/_index-dark.scss": {
 		"aP": 0,
 		"bl": 0,
