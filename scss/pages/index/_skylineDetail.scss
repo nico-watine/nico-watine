@@ -1,11 +1,6 @@
 .index#index {
 	.skylineDetail {
-		// background: transparent url('/img/index/background/houston-skyline-detail.png') center top/cover no-repeat;
-		background-color: transparent;
-		background-image: url('/img/index/background/houston-skyline-detail.png');
-		background-position: center top;
-		background-size: cover;
-		background-repeat: no-repeat;
+		background: transparent url('/img/index/background/houston-skyline-detail.png') center top/cover no-repeat;
 		position: absolute;
 		bottom: 0;
 		width: 100%;
