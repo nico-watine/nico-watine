@@ -4777,11 +4777,6 @@ a:not(.button):hover {
   min-width: 25%;
 }
 
-#index.index {
-  background: #fff url("/img/index/background/large/houston-tx-downtown.jpg") right center/cover no-repeat fixed;
-  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
-}
-
 #index.index .skylineDetail {
   background: transparent url("/img/index/background/houston-skyline-detail.png") center top/cover no-repeat;
   position: absolute;
@@ -4806,6 +4801,11 @@ a:not(.button):hover {
   #index.index .skylineDetail .prose {
     padding: 0 30px 15px;
   }
+}
+
+#index.index {
+  background: #fff url("/img/index/background/large/houston-tx-downtown.jpg") right center/cover no-repeat fixed;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
 #index.index .heightWrapper {
