@@ -55,11 +55,13 @@
 // |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
 // ------------------------------------------------------------------------------
 
+@import 'var/_var.scss';
+
 @import 'elements/_elements.scss';
 
 @import 'pages/_pages.scss';
 
 html,
 body {
-    height: 100%;
+	height: 100%;
 }

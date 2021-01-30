@@ -1,0 +1,53 @@
+// ----------------------------------------------------
+// |            CDN VARIABLE USAGE #{$url}            |
+// ----------------------------------------------------
+
+$url: null;
+// $url:'http://cdn.nicowatine.me';
+
+
+
+
+// --------------------------------
+// |            COLORS            |
+// --------------------------------
+
+$lime-green: #c8dd64;
+$dark-blue: #0071aa;
+$magenta: #c30c72;
+$yellow: #ffdb00;
+
+
+
+// -----------------------------------------------------------------------
+// |            GOOGLE "MATERIAL DESIGN" BOX-SHADOW VARIABLES            |
+// -----------------------------------------------------------------------
+
+$z-1: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
+$z-2: 0 rem-calc(2) rem-calc(2) 0 rgba(0,0,0,.20), 0 rem-calc(6) rem-calc(10) 0 rgba(0,0,0,.30);
+$z-3: 0 rem-calc(11) rem-calc(7) 0 rgba(0,0,0,.19), 0 rem-calc(13) rem-calc(25) 0 rgba(0,0,0,.30);
+$z-4: 0 rem-calc(14) rem-calc(12) 0 rgba(0,0,0,.17), 0 rem-calc(20) rem-calc(40) 0 rgba(0,0,0,.30);
+$z-5: 0 rem-calc(17) rem-calc(17) 0 rgba(0,0,0,.15), 0 rem-calc(27) rem-calc(55) 0 rgba(0,0,0,.30);
+
+
+
+// ----------------------------------------------
+// |            TYPOGRAPHY VARIABLES            |
+// ----------------------------------------------
+$p: rem-calc(16);
+
+// Heading sizes @small
+$h1: rem-calc(60);
+$h2: rem-calc(42);
+$h3: rem-calc(26);
+$h4: rem-calc(22);
+$h5: rem-calc(18);
+$h6: rem-calc(14);
+
+// Heading sizes @medium+
+$h1-medium: rem-calc(110);
+$h2-medium: rem-calc(68);
+$h3-medium: rem-calc(42);
+$h4-medium: rem-calc(26);
+$h5-medium: rem-calc(16);
+$h6-medium: rem-calc(12);
