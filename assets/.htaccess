@@ -7,6 +7,17 @@
 # INCLUDES ENTRY FOR JS/CSS AUTOVERSIONING (LOCATED AT BOTTOM OF FILE)
 # ------------------------------------------------------------------------------
 
+# ----------------------------------------------------------------------
+# | Forcing `https://`                                                 |
+# ----------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+   RewriteCond %{HTTPS} !=on
+   RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+
+
 
 # ----------------------------------------------------------------------
 # | Forcing `https://`                                                 |

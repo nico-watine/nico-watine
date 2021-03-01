@@ -8493,7 +8493,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://nico-watine.local",
+	"externalServerAddress": "https://nico-watine.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
