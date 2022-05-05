@@ -7267,14 +7267,6 @@
       "oAP" : "\/src\/helpers\/_notes.txt",
       "oF" : 0
     },
-    "\/src\/layouts-production\/default.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/src\/layouts-production\/default.html",
-      "oF" : 0
-    },
     "\/src\/layouts\/_notes.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -7307,12 +7299,12 @@
       "oAP" : "\/src\/partials\/_notes.txt",
       "oF" : 0
     },
-    "\/src\/partials\/google-tracking-id.html" : {
+    "\/src\/partials\/google-analytics.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/src\/partials\/google-tracking-id.html",
+      "oA" : 2,
+      "oAP" : "\/src\/partials\/google-analytics.html",
       "oF" : 0
     },
     "\/yarn.lock" : {
